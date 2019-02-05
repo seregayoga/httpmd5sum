@@ -3,7 +3,7 @@
 ## Tool for computing md5 hashes of sites' content
 
 Installation:
-`go get github.com/seregayoga/httpmd5sum/...`
+`go get github.com/seregayoga/httpmd5sum/cmd/httpmd5sum`
 
 Tests:
 `make test` or `go test -race ./...`
