@@ -1,6 +1,6 @@
 # httpmd5sum
 
-## Tool for computing md5 hashes of site contents
+## Tool for computing md5 hashes of sites' content
 
 Installation:
 `go get github.com/seregayoga/httpmd5sum/...`
